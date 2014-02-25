@@ -1,1 +1,1 @@
-{"statusCode":200,"errorMessage":"validation failed", "listError":[ {"passengerEmail": "is missing"}], "data":null}
+{"statusCode":200,"errorMessage":"validation failed", "listError":[ {"passengerEmail": "may not be empty"}], "data":null}
